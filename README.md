@@ -22,3 +22,5 @@ check your bot status automatically using userbot, simply and easy.
 <a href="https://t.me/shukurenai007"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
 <a href="https://t.me/"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 </p>
+
+## Credit
