@@ -24,3 +24,6 @@ check your bot status automatically using userbot, simply and easy.
 </p>
 
 ## Credit
+- [DeepakJack](https://github.com/DeepakJack007)``Dev``
+- [Nandha](https://github.com/Ctzfamily)``Dev``
+- [Powerful_BotStatus-TeLeTiPs](https://github.com/teletips/Powerful_BotStatus-TeLeTiPs)
