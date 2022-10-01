@@ -13,14 +13,14 @@ check your bot status automatically using userbot, simply and easy.
 
 ### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shukurenai007/StatusBots)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DeepakJackSon/StatusBots)
 
 ### Support
 <p>
 <a href="https://t.me/Pegasus_Network"> <img src="https://img.shields.io/badge/Telegram-Chennal-blue?&logo=telegram" alt="Telegram Channel" /> </a><br>
 <a href="https://t.me/ShuKurenaiSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 <a href="https://t.me/shukurenai007"> <img src="https://img.shields.io/badge/Update-Channel-blue?&logo=telegram" alt="Update Channel" /> </a><br>
-<a href="https://t.me/"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
+<a href="https://t.me/WolfXCloudSupport"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
 </p>
 
 ## Credit
