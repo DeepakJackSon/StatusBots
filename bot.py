@@ -1,8 +1,8 @@
-#Copyright ©️ 2022 shukurenai007. All Rights Reserved
+#Copyright ©️ 2022 DeepakJackSon. All Rights Reserved
 #You are free to use this code in any of your project, but you MUST include the following in your README.md (Copy & paste)
-# ##Credits - [StatusBots Telegram bot by Shu Kurenai Team] (https://github.com/shukurenai007/StatusBots)
+###Credits - [StatusBots Telegram bot by Shu Kurenai Team] (https://github.com/DeepakJackSon/StatusBots)
 
-# Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/shukurenai007/StatusBots/blob/main/LICENSE
+#Changing the code is not allowed! Read GNU AFFERO GENERAL PUBLIC LICENSE: https://github.com/DeepakJackSon/StatusBots/blob/main/LICENSE
 
 import os
 import pytz
@@ -54,7 +54,7 @@ async def statusbots():
                         await asyncio.sleep(e.x)            
                 time = datetime.datetime.now(pytz.timezone(f"{TIME_ZONE}"))
                 last_update = time.strftime(f"%d %b %Y at %I:%M %p")
-                checker_bot += f"\n\n🛂 Last Check: {last_update} ({TIME_ZONE})\n\n🟡 **updates every 45 min(s)**\n\n⚡ Powered by:- @shukurenai007, @Pegasus_Network"
+                checker_bot += f"\n\n🛂 Last Check: {last_update} ({TIME_ZONE})\n\n🟡 **updates every 45 min(s)**\n\n⚡ Powered by:- @WolfXCloud"
                 await app.edit_message_text(int(CHANNEL_OR_GROUP_ID), MESSAGE_ID, checker_bot)
                 print(f"Last Check At: {last_update}")                
                 await asyncio.sleep(2700)
